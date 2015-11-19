@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Musings]]></title>
+        <description><![CDATA[Musings]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 19 Nov 2015 05:45:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Volvo Concept 26 Hints At Interior Design In A World Of Autonomous Cars]]></title>
+            <description><![CDATA[<article><h1>Volvo Concept 26 Hints At Interior Design In A World Of Autonomous Cars</h1><p>A handful of firms has started showing off concept cars in which actually doing the driving is optional. Utilizing autonomous car technology, these concepts preview a world where cars are able to drive themselves, essentially becoming an office or lounge on wheels for their owners. Some recent...</p><img src="http://images.thecarconnection.com/hug/volvo-concept-26-2015-los-angeles-auto-show_100534093_h.jpg"></article>]]></description>
+            <link>http://www.motorauthority.com/news/1101059_volvo-concept-26-hints-at-interior-design-in-a-world-of-autonomous-cars</link>
+            <guid isPermaLink="false">fea81d3a-d646-46be-b0a5-b4ca49659c31</guid>
+            <pubDate>Thu, 19 Nov 2015 05:45:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
