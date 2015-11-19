@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Musings]]></title>
         <description><![CDATA[Musings]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rei/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 Nov 2015 05:45:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 19 Nov 2015 05:46:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rei/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pop-up sensor would give robot surgeons a sense of touch]]></title>
+            <description><![CDATA[<article><h1>Pop-up sensor would give robot surgeons a sense of touch</h1><p>Robotic surgery is no longer the stuff of science fiction. However, these robots can't really feel their way around -- the need for super-small mechanisms rules out existing approaches to touch. That's where Harvard researchers might come to save the day.</p><img src="http://o.aolcdn.com/hss/storage/midas/e04ef88af5bebadebf5b7438837eb8ca/202984140/pop-up-sensor-catheter-harvard.jpg"></article>]]></description>
+            <link>http://www.engadget.com/2015/11/16/pop-up-robot-sensor/</link>
+            <guid isPermaLink="false">f1129db0-09cf-40a3-83e7-9764762e18a2</guid>
+            <pubDate>Thu, 19 Nov 2015 05:45:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Volvo Concept 26 Hints At Interior Design In A World Of Autonomous Cars]]></title>
             <description><![CDATA[<article><h1>Volvo Concept 26 Hints At Interior Design In A World Of Autonomous Cars</h1><p>A handful of firms has started showing off concept cars in which actually doing the driving is optional. Utilizing autonomous car technology, these concepts preview a world where cars are able to drive themselves, essentially becoming an office or lounge on wheels for their owners. Some recent...</p><img src="http://images.thecarconnection.com/hug/volvo-concept-26-2015-los-angeles-auto-show_100534093_h.jpg"></article>]]></description>
