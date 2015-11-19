@@ -2,6 +2,7 @@ name: rei
 favicon: null
 layout_spectrum: 0.44160406780429184
 typography_spectrum: 0.8314781929366291
+title: Musings
 cta:
   domain: null
   bucket: null
